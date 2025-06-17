@@ -3,17 +3,14 @@
 I'm currently completing my MSc in Computer Science at University College Cork (UCC), Ireland.  
 My thesis work explores how **AI, geospatial data, and modular architecture** can be combined to create intelligent, exploratory systems.
 
-- I use Mandarin and English. I also speak Cantonese — and I code in all three when needed 😉.
-+ I work in English and Mandarin, and also speak Cantonese — occasionally I even code in all three 😉.
+- I work in English, and also speak Mandarin and Cantonese — occasionally I even code in all three 😉.
 
 I’m **actively looking** for a project I can meaningfully contribute to. Or if you want to build any airports, stadiums or hospitals I could help you with that too. I was previously an architect.
 
 ---
 
 ## Personal Demo – Urban Puzzle System  
-> - Thesis-based personal demo. Subject to continuous development. Not open for contribution.
-+ 🎓 Thesis-based personal demo. Still under development. Source is available, but not open for contribution.
-
+> - Thesis-based personal demo. Subject to continuous development. Source is available, but not open for contribution.
 
 This project explores how **LLMs, urban landmark metadata**, and **player movement** can be integrated into a spatially-aware, riddle-based exploration system.
 
