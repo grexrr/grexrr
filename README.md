@@ -3,18 +3,24 @@
 I'm currently completing my MSc in Computer Science at University College Cork (UCC), Ireland.  
 My thesis work explores how **AI, geospatial data, and modular architecture** can be combined to create intelligent, exploratory systems.
 
-I use **Mandarin** and **English**. I also speak **Cantonese** — and I code in all three when needed 😉.
+- I use Mandarin and English. I also speak Cantonese — and I code in all three when needed 😉.
++ I work in English and Mandarin, and also speak Cantonese — occasionally I even code in all three 😉.
+
+I’m **actively looking** for a project I can meaningfully contribute to. Or if you want to build any airports, stadiums or hospitals I could help you with that too. I was previously an architect.
 
 ---
 
 ## Personal Demo – Urban Puzzle System  
-> *Thesis-based personal demo. Subject to continuous development. Not open for contribution.*
+> - Thesis-based personal demo. Subject to continuous development. Not open for contribution.
++ 🎓 Thesis-based personal demo. Still under development. Source is available, but not open for contribution.
+
 
 This project explores how **LLMs, urban landmark metadata**, and **player movement** can be integrated into a spatially-aware, riddle-based exploration system.
 
 - Java Spring Boot backend for session, puzzle, and player logic  
 - Python-based microservice for real-time LLM riddle generation (GPT / llama.cpp local deployment)
-- Leaflet.js frontend for map interaction, player orientation, and target logic **(MVP Stage)**  
+- Leaflet.js frontend for map interaction, player orientation, and target logic (MVP Stage)
++ Leaflet.js frontend for map interaction, orientation logic, and dynamic target display *(MVP stage)*  
 - Wikipedia/OSM-based landmark "metadata" preprocessing pipeline  
 - MongoDB for persistent storage of riddles, sessions, and landmark data  
 - Epistemic planning agent module **under construction** (to adapt riddles based on player knowledge state)  
@@ -22,9 +28,9 @@ This project explores how **LLMs, urban landmark metadata**, and **player moveme
 
 ![System Architecture](./assets/scavenger_architecture.png)
 
-🔗 [Source code (private)](https://github.com/grexrr/scavengerHunt)  
-🔗 [Riddle Agent (private)](https://github.com/grexrr/scavenger.RiddleAgent)  
-🔗 [Landmark Processor (private)](https://github.com/grexrr/scavenger.LandmarkProcessor)
+🔗 [Source code](https://github.com/grexrr/scavengerHunt)  
+🔗 [Riddle Agent](https://github.com/grexrr/scavenger.RiddleAgent)  
+🔗 [Landmark Processor](https://github.com/grexrr/scavenger.LandmarkProcessor)
 
 🧾 [Thesis Abstract](#) *(Available on request)*
 
