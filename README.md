@@ -5,7 +5,8 @@ My thesis work explores how **AI, geospatial data, and modular architecture** ca
 
 - I work in English, and also speak Mandarin and Cantonese — occasionally I even code in all three 😉.
 
-I’m **actively looking** for a project I can meaningfully contribute to. Or if you want to build any airports, stadiums or hospitals I could help you with that too. I was previously an architect.
+I’m **actively looking** for a project I can meaningfully contribute to. 
+(Or if you want to build any airports, stadiums or hospitals I could also help you with that. I am a former architect.)
 
 ---
 
