@@ -20,7 +20,7 @@ This project explores how **LLMs, urban landmark metadata**, and **player moveme
 - Epistemic planning agent module **under construction** (to adapt riddles based on player knowledge state)  
 - ☁️ *Future:* containerization via Docker/Kubernetes and cloud hosting (AWS)
 
-![System Architecture](./scavenger_architecture.png)
+![System Architecture](./assets/scavenger_architecture.png)
 
 🔗 [Source code (private)](https://github.com/grexrr/scavengerHunt)  
 🔗 [Riddle Agent (private)](https://github.com/grexrr/scavenger.RiddleAgent)  
