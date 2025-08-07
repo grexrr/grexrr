@@ -18,7 +18,6 @@ This project explores how **LLMs, urban landmark metadata**, and **player moveme
 - Java Spring Boot backend for session, puzzle, and player logic  
 - Python-based microservice for real-time LLM riddle generation (GPT / llama.cpp local deployment)
 - Leaflet.js frontend for map interaction, player orientation, and target logic (MVP Stage)
-+ Leaflet.js frontend for map interaction, orientation logic, and dynamic target display *(MVP stage)*  
 - Wikipedia/OSM-based landmark "metadata" preprocessing pipeline  
 - MongoDB for persistent storage of riddles, sessions, and landmark data  
 - Epistemic planning agent module **under construction** (to adapt riddles based on player knowledge state)  
